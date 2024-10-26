@@ -1,0 +1,8 @@
+domain/SaleLineItem.class
+miPrincipal/App.class
+domain/ProductCatalog.class
+domain/Sale.class
+domain/Payment.class
+domain/Store.class
+domain/ProductSpecification.class
+workflow/POS.class
